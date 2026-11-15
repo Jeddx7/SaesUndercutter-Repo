@@ -32,5 +32,34 @@
         "IconUrl":  "https://raw.githubusercontent.com/Jeddx7/SaesUndercutter-Repo/main/icon.png",
         "Punchline":  "Catches undercut retainer listings and walks you through repricing them, one retainer or all of them.",
         "AcceptsFeedback":  true
+    },
+    {
+        "Author":  "Jed",
+        "Name":  "Sae\u0027s Archive",
+        "InternalName":  "SaesArchive",
+        "AssemblyVersion":  "1.0.0",
+        "Description":  "Sae\u0027s Archive saves every chat message you see into a local database, along with the speaker\u0027s job, level, FC tag and position when they\u0027re nearby, and where you were at the time.\n\nSEARCH\nSearch everything instantly: words, \"exact phrases\", prefix* matches, OR, and -exclusions, with filters for channel, player, world, zone, job, level, FC tag, date and who saw it.\n\nPLAYERS\nRight-click a name in chat (or in your party list, friend list or target) for Chat history: everything that player has said, plus jobs, levels, FC tags and zones seen.\n\nCONTEXT\nOpen any message in context to see everything said around that moment.\n\nSHARED\nOptionally sync with a friend so you can each search what the other saw. Messages you both saw are stored once.\n\nCommands: /archive to open, /archive config for settings.",
+        "ApplicableVersion":  "any",
+        "Tags":  [
+                     "chat",
+                     "log",
+                     "history",
+                     "search"
+                 ],
+        "CategoryTags":  [
+                             "social"
+                         ],
+        "DalamudApiLevel":  15,
+        "LoadRequiredState":  0,
+        "LoadSync":  false,
+        "CanUnloadAsync":  false,
+        "LoadPriority":  0,
+        "Punchline":  "A searchable archive of every chat message you see, with who said it, where, and on what job.",
+        "AcceptsFeedback":  true,
+        "RepoUrl":  "https://github.com/Jeddx7/SaesUndercutter-Repo",
+        "DownloadLinkInstall":  "https://raw.githubusercontent.com/Jeddx7/SaesUndercutter-Repo/main/SaesArchive.zip",
+        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/Jeddx7/SaesUndercutter-Repo/main/SaesArchive.zip",
+        "DownloadLinkTesting":  "https://raw.githubusercontent.com/Jeddx7/SaesUndercutter-Repo/main/SaesArchive.zip",
+        "DownloadCount":  0
     }
 ]
